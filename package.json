@@ -1,0 +1,24 @@
+{
+  "name": "raspberrypi-remote-leds",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpdrozd/RaspberryPi-remote-leds.git"
+  },
+  "author": "Filip Drozd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fpdrozd/RaspberryPi-remote-leds/issues"
+  },
+  "homepage": "https://github.com/fpdrozd/RaspberryPi-remote-leds#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "onoff": "^3.2.2",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  }
+}
